@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QDesktopWidget, QMessageBox
+from PyQt5.QtWidgets import QApplication, QWidget, QDesktopWidget
 
 class Example(QWidget):
     def __init__(self):
